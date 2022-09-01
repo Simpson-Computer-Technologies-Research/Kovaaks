@@ -1,4 +1,4 @@
-# Kovaaks Converter ![Stars](https://img.shields.io/github/stars/realTristan/KovaaksConverter?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/realTristan/KovaaksConverter?label=Watchers)
+# Kovaaks Converter ![Stars](https://img.shields.io/github/stars/realTristan/Kovaaks?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/realTristan/Kovaaks?label=Watchers)
 ![banner (3)](https://user-images.githubusercontent.com/75189508/186440251-61f85d4b-14bc-49b0-8f28-bf7c73c2e384.png)
 
 # About
