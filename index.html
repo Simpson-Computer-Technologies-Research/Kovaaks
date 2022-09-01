@@ -38,7 +38,7 @@
     function sumFOV() {
         let R6FOV = document.getElementById('R6FOV').value;
         let opticMult = document.getElementById('opticMult').value;
-        let result = parseFloat(txtnum6) * parseFloat(opticMult);
+        let result = parseFloat(R6FOV) * parseFloat(opticMult);
         if (!isNaN(result)) {
             document.getElementById('kovaaksFOV').value = result;
         }
